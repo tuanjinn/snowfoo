@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_75838_foo.footable_user" name="x_75838_foo.footable_user">857309b30f010300fb198c9ce1050e9c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-13 15:48:34</sys_created_on>
+        <sys_id>897349770f010300fb198c9ce1050ea3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>857309b30f010300fb198c9ce1050e9c</sys_name>
+        <sys_package display_value="foo" source="x_75838_foo">6dd145b30f010300fb198c9ce1050e94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="foo">6dd145b30f010300fb198c9ce1050e94</sys_scope>
+        <sys_update_name>sys_embedded_help_role_897349770f010300fb198c9ce1050ea3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-13 15:48:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

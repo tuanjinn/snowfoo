@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="FooTable" max_length="40" name="x_75838_foo_footable" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Remark" max_length="40" name="remark" type="string"/>
+    </element>
+</database>
